@@ -1,7 +1,6 @@
 Utilize o comando images para listar:
 
-1
-docker images
+'docker images'
 Será apresentado uma tabela no seu Terminal com:
 
 REPOSITORY - repositório
